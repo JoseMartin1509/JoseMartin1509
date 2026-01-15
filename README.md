@@ -6,98 +6,75 @@
 <h1 align="center">
   Hola 👋, soy <b>José Martín</b>
 </h1>
-
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Web+%26+Software+Solutions;Always+learning+new+things;Building+projects+with+modern+tech;&center=true&width=600&height=45">
-  </a>
-</p>
-
-<p align="center">
-  🚀 Passionate about building scalable web applications and clean solutions  
+  <i>Desarrollador Full-Stack enfocado en soluciones web modernas</i>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Sobre mí
 
 <picture>
-  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260">
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 </picture>
 
-- 💻 Full-Stack Developer focused on **modern web technologies**
-- 🧠 Strong interest in **software architecture & best practices**
-- 🌱 Currently improving skills in **Next.js, Node.js & databases**
-- ⚡ I enjoy turning ideas into **real, usable products**
-- 🎯 Goal: Build professional software solutions and grow as a developer
+Soy desarrollador Full-Stack con interés en crear aplicaciones web escalables, limpias y bien estructuradas.  
+Me enfoco en aprender constantemente nuevas tecnologías y aplicar buenas prácticas de desarrollo.
 
-📄 **Portfolio / CV:** *(opcional)*  
-🌐 **Website:** *(opcional)*  
+- 💻 Desarrollo web Frontend y Backend  
+- 🧠 Interés en arquitectura de software  
+- 🌱 Aprendiendo continuamente nuevas herramientas  
+- 🎯 Objetivo: construir productos reales y funcionales  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Habilidades Técnicas
 
-### 💻 Languages & Frameworks
+### 💻 Lenguajes, Frameworks y otros
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nextjs,nodejs,express,laravel" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vue,nodejs,express,python,c" />
 </p>
 
-### 🗄️ Databases & Backend
+### 🗄️ Bases de Datos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,sequalize" />
 </p>
 
-### ⚙️ Tools & DevOps
+### ⚙️ Herramientas (Tools)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🔹 **Project One**
-**Description:** Short description of what this project does and the problem it solves.  
-**Tech:** React · Node.js · PostgreSQL  
-🔗 Repo: https://github.com/TU_USUARIO/proyecto-1  
+> ✏️ **Puedes cambiar los iconos fácilmente**, mira la explicación abajo 👇
 
 ---
 
-### 🔹 **Project Two**
-**Description:** Web application focused on management / automation / SaaS idea.  
-**Tech:** Laravel · MySQL · Tailwind  
-🔗 Repo: https://github.com/TU_USUARIO/proyecto-2  
+## 🚀 Proyectos Destacados
+
+### 🔹 Nombre del Proyecto
+**Descripción:** Breve descripción del proyecto y el problema que resuelve.  
+**Tecnologías:** React · Node.js · PostgreSQL  
+🔗 Repositorio: https://github.com/TU_USUARIO/proyecto
 
 ---
 
-### 🔹 **Project Three**
-**Description:** Full-stack project with authentication and dashboard.  
-**Tech:** Next.js · Prisma · PostgreSQL  
-🔗 Repo: https://github.com/TU_USUARIO/proyecto-3  
+### 🔹 Nombre del Proyecto
+**Descripción:** Aplicación web enfocada en gestión o automatización.  
+**Tecnologías:** Laravel · MySQL · Tailwind  
+🔗 Repositorio: https://github.com/TU_USUARIO/proyecto
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Trayectoria
 
-<p align="center">
-  <!-- Stats generales -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-
-  <!-- Lenguajes más usados -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-</p>
-
+- Desarrollo de proyectos personales y académicos  
+- Experiencia con aplicaciones Full-Stack  
+- Uso de Git y GitHub para control de versiones  
+- Aplicación de buenas prácticas y código limpio  
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Contacto
 
 <p align="center">
   <a href="https://www.linkedin.com/in/TU_LINKEDIN">
@@ -113,15 +90,6 @@
 
 ---
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO&theme=tokyonight" 
-  />
-</p>
-
-
----
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&section=footer"/>
 </div>
