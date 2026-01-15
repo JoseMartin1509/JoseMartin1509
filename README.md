@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">
-  Hi 👋, I'm <b>TU_NOMBRE</b>
+  Hola 👋, soy <b>José Martín</b>
 </h1>
 
 <p align="center">
