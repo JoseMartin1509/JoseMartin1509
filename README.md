@@ -37,15 +37,14 @@ Me enfoco en aprender constantemente nuevas tecnologías y aplicar buenas práct
 
 ### 🗄️ Bases de Datos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,sequalize" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,Sequelize" />
 </p>
 
 ### ⚙️ Herramientas (Tools)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=notion,git,github,postman,vscode,linux" />
 </p>
 
-> ✏️ **Puedes cambiar los iconos fácilmente**, mira la explicación abajo 👇
 
 ---
 
