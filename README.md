@@ -18,11 +18,13 @@
   <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 </picture>
 
-Soy desarrollador Full-Stack con interés en crear aplicaciones web escalables, limpias y bien estructuradas.  
+Soy un Ingeniero en Computación con experiencia en el desarrollo de software. Mi pasión radica en crear soluciones tecnológicas que resuelvan problemas reales y generen impacto positivo.
+
+Enfocado en desarrollo Full-Stack, he trabajado con diversas tecnologías modernas y metodologías ágiles. Mi enfoque se centra en generar soluciones funcionales y de alto valor. 
 Me enfoco en aprender constantemente nuevas tecnologías y aplicar buenas prácticas de desarrollo.
 
 - 💻 Desarrollo web Frontend y Backend  
-- 🧠 Interés en arquitectura de software  
+- 🧠 Interés en diseño y estructuración de sistemas de software
 - 🌱 Aprendiendo continuamente nuevas herramientas  
 - 🎯 Objetivo: construir productos reales y funcionales  
 
@@ -85,10 +87,10 @@ Me enfoco en aprender constantemente nuevas tecnologías y aplicar buenas práct
 
 ## 🎓 Trayectoria
 
-- Desarrollo de proyectos personales y académicos  
-- Experiencia con aplicaciones Full-Stack  
-- Uso de Git y GitHub para control de versiones  
-- Aplicación de buenas prácticas y código limpio  
+- Junio 2024 - Diciembre 2024 Servicio Social: UniversoFono-Diseño e implementación del sistema para la rehabilitación del paciente con problemáticas en comunicación humana vía internet  
+- Junio 2025: SaaS para administrar Maquinaria
+- Noviembre 2025 : TorreKronos- Plataforma de publicaciones  
+- 
 
 ---
 
