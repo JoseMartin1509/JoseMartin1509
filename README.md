@@ -50,16 +50,35 @@ Me enfoco en aprender constantemente nuevas tecnologías y aplicar buenas práct
 
 ## 🚀 Proyectos Destacados
 
-### 🔹 Nombre del Proyecto
-**Descripción:** Breve descripción del proyecto y el problema que resuelve.  
-**Tecnologías:** React · Node.js · PostgreSQL  
+### 🔹 UniversoFono
+**Descripción:** Diseño e implementación del sistema para la rehabilitación del paciente con problemáticas en comunicación humana vía internet.  
+
+
+**Tecnologías:** React, TipeScript, PostgreSQL, CSS, Bootstrap, Git, Github.
+
+
 🔗 Repositorio: https://github.com/TU_USUARIO/proyecto
 
 ---
 
-### 🔹 Nombre del Proyecto
-**Descripción:** Aplicación web enfocada en gestión o automatización.  
-**Tecnologías:** Laravel · MySQL · Tailwind  
+### 🔹 SaaS para la administración de Maquinaria
+**Descripción:** Plataforma web para la gestión integral de renta de maquinaria
+
+
+**Tecnologías:** Next.js, TypeScript, Tailwind, Prisma, Git, Github, Trello, Slack 
+
+
+🔗 Repositorio: https://github.com/TU_USUARIO/proyecto
+
+---
+
+### 🔹 TorreKronos - Plataforma de Publicaciones
+**Descripción:** Es una plataforma web dirigida para cualquier persona que quiera leer cualquier tipo de publicación y tambien un espacio para que los autores puedan compartir sus escritos.
+
+
+**Tecnologías:** Next.js, Express.js, TypeScript, Tailwind, SequelizeROM, Git, Github, Postman, Slack 
+
+
 🔗 Repositorio: https://github.com/TU_USUARIO/proyecto
 
 ---
