@@ -7,7 +7,7 @@
   Hola 👋, soy <b>José Martín</b>
 </h1>
 <p align="center">
-  <i>Desarrollador Full-Stack enfocado en soluciones web modernas</i>
+  <i>Desarrollador Full-Stack Jr. enfocado en soluciones web modernas</i>
 </p>
 
 ---
@@ -59,7 +59,7 @@ Me enfoco en aprender constantemente nuevas tecnologías y aplicar buenas práct
 **Tecnologías:** React, TipeScript, PostgreSQL, CSS, Bootstrap, Git, Github.
 
 
-🔗 Repositorio: https://github.com/TU_USUARIO/proyecto
+🔗 Link: https://portafolio-phi-rouge.vercel.app
 
 ---
 
@@ -70,7 +70,7 @@ Me enfoco en aprender constantemente nuevas tecnologías y aplicar buenas práct
 **Tecnologías:** Next.js, TypeScript, Tailwind, Prisma, Git, Github, Trello, Slack 
 
 
-🔗 Repositorio: https://github.com/TU_USUARIO/proyecto
+🔗 Link: https://portafolio-phi-rouge.vercel.app
 
 ---
 
@@ -81,12 +81,13 @@ Me enfoco en aprender constantemente nuevas tecnologías y aplicar buenas práct
 **Tecnologías:** Next.js, Express.js, TypeScript, Tailwind, SequelizeROM, Git, Github, Postman, Slack 
 
 
-🔗 Repositorio: https://github.com/TU_USUARIO/proyecto
+🔗 Link: https://portafolio-phi-rouge.vercel.app
 
 ---
 
 ## 🎓 Trayectoria
 
+- Noviembre 2024: Termino con éxito la carrera de Ingeniería en Computación en la Facultad de Ingeniería de la UNAM, adquiriendo conocimientos sólidos en algoritmos, estructuras de datos, sistemas operativos y desarrollo de software.
 - Junio 2024 - Diciembre 2024 Servicio Social: UniversoFono-Diseño e implementación del sistema para la rehabilitación del paciente con problemáticas en comunicación humana vía internet  
 - Junio 2025: SaaS para administrar Maquinaria
 - Noviembre 2025 : TorreKronos- Plataforma de publicaciones  
@@ -97,13 +98,13 @@ Me enfoco en aprender constantemente nuevas tecnologías y aplicar buenas práct
 ## 📫 Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/jmvf1">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:TU_EMAIL@gmail.com">
+  <a href="mailto:marto151199@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/JoseMartin1509">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
